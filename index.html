@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalho 02 - Mercado de Carbono</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Mercado de Carbono</h1>
+        <p>Calculadora de Emissões e Créditos</p>
+    </header>
+
+    <main>
+        <form id="carbon-form">
+            <section class="config">
+                <h3>Configurações Gerais</h3>
+                <div class="form-group">
+                    <label for="available-credits">Créditos Disponíveis (em toneladas):</label>
+                    <input type="text" id="available-credits" value="500">
+                </div>
+                <div class="form-group">
+                    <label for="price-per-ton">Preço por Tonelada de Carbono (R$):</label>
+                    <input type="text" id="price-per-ton" value="50">
+                </div>
+            </section>
+
+            <section class="activities">
+                <h3>Atividades Emissoras</h3>
+                <div id="activities-container">
+                    <div class="activity-entry">
+                        <input type="text" class="activity-name" placeholder="Nome da Atividade (ex: Frota de Veículos)" value="Frota de Veículos">
+                        <input type="text" class="activity-emissions" placeholder="Emissões (toneladas)" value="800">
+                    </div>
+                    <div class="activity-entry">
+                        <input type="text" class="activity-name" placeholder="Nome da Atividade (ex: Fábrica)" value="Fábrica A">
+                        <input type="text" class="activity-emissions" placeholder="Emissões (toneladas)" value="1200">
+                    </div>
+                </div>
+                <button type="button" id="add-activity">+ Adicionar Atividade</button>
+            </section>
+
+            <button type="submit" class="calculate-btn">Calcular Resultados</button>
+        </form>
+
+        <section id="results-container">
+            <h3>Resultados</h3>
+            <div id="error-message" class="error"></div>
+            <div id="results">
+                </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por: Leonardo Abelino e Carlos Eduardo.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
