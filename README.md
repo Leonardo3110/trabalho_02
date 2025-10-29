@@ -4,8 +4,7 @@
 
 ## 👨‍💻 Membros do Grupo
 
-* **[Seu Nome Completo]** (@Leonardo3110)
-* **[Nome Completo Membro 2]** (@Leonardo e Carlos)
+(@Leonardo e Carlos)
 
 ---
 
@@ -15,11 +14,11 @@
 
 1.  Clone este repositório:
     ```bash
-    git clone [URL-DO-SEU-REPOSITORIO-GITHUB]
+    git clone [https://github.com/Leonardo3110/trabalho_02]
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd [NOME-DA-PASTA-DO-PROJETO]
+    cd [trabalho_02]
     ```
 3.  Abra o arquivo `index.html` em qualquer navegador web moderno (como Chrome, Firefox, ou Edge).
 
