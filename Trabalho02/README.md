@@ -4,7 +4,8 @@
 
 ## 👨‍💻 Membros do Grupo
 
-(@Leonardo e Carlos)
+## Usuário do GitHub (@Leonardo3110)
+## Membros (Leonardo Luis Abelino e Carlos Eduardo Nogueira)
 
 ---
 
@@ -18,7 +19,7 @@
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd [trabalho_02]
+    cd [trabalho02]
     ```
 3.  Abra o arquivo `index.html` em qualquer navegador web moderno (como Chrome, Firefox, ou Edge).
 
