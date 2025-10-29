@@ -4,8 +4,8 @@
 
 ## 👨‍💻 Membros do Grupo
 
-## Usuário do GitHub (@Leonardo3110)
-## Membros (Leonardo Luis Abelino e Carlos Eduardo Nogueira)
+## Usuário do GitHub [(@Leonardo3110)]
+## Membros [(Leonardo Luis Abelino e Carlos Eduardo Nogueira)]
 
 ---
 
