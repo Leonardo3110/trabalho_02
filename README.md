@@ -19,7 +19,7 @@
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd [trabalho02]
+    cd [trabalho_02]
     ```
 3.  Abra o arquivo `index.html` em qualquer navegador web moderno (como Chrome, Firefox, ou Edge).
 
